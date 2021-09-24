@@ -1,0 +1,125 @@
+body{
+    background-color:rgba(146, 144, 129, 0.753);
+    
+}
+.awal{
+    text-align: center;
+    background-color: rgba(178, 201, 48, 0.568)
+;
+width: 1000px;
+margin-left: auto;
+margin-right: auto;
+font-size:50px;
+border-radius: 10px
+
+
+}
+
+
+.box1{background-color:;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: fit-content;
+    background-color: rgba(63, 190, 51, 0.479);
+}
+
+.teks1{
+    background-color: rgba(190, 192, 78, 0.192); 
+    color: white;
+    width: 1080px
+    ;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+   
+    border-radius: 10px;
+
+}
+.teks2{background-color: rgba(193, 196, 64, 0.185);
+color: white
+;
+width: 1000px;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+border-radius: 10px;}
+.teks3{width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: fit-content;
+background-color: rgba(64, 167, 32, 0.568);
+
+}
+.teks6{width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 300px;
+    background-color: rgba(226, 224, 73, 0.671);
+}
+
+
+}
+.cek1{
+    width: fit-content;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+width: fit-content;
+}
+.img{
+    width: fit-content;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+width: fit-content;
+border-radius: 50%;}
+
+.teks4{
+    width: fit-content;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+width: fit-content;
+background-color: rgba(190, 192, 78, 0.432);
+color: white;
+border-radius: 10px;
+}
+.teks5{
+     width: fit-content;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+width: fit-content;
+background-color: rgba(190, 192, 78, 0.37);
+color: white;
+border-radius: 10px;
+}
+.teks7{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: rgba(226, 224, 73, 0.671);
+}
+body{
+    background-image: url(image/theame\ tugas2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
+.img img{
+    border-radius: 50%;
+}
+/* .warna{background-color: rgb(63, 177, 52);
+    width: 100;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+
+
+} */
